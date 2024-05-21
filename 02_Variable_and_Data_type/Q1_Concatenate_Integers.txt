@@ -1,0 +1,23 @@
+Concatenate Integers
+
+Given two integers a and b, you need to concatenate them so the output is ab.
+
+Example 1:
+
+Input:
+a = 5
+b = 6
+Output: 
+56
+Explanation: Concatenate them.
+Example 2:
+
+Input:
+a = 1
+b = 9
+Output: 
+19
+Explanation: Concatenate them.
+
+Your Task: 
+Just write the syntax to concatenate them. The input and output codes are already provided.
